@@ -1,0 +1,4 @@
+debug: false
+indicator: 60
+page:
+  mood: ${indicator}
